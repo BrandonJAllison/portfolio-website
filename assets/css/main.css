@@ -3440,7 +3440,7 @@ input, select, textarea {
 	white-space: nowrap;
 	color: rgb(20, 199, 74);
 	font-family: monospace;
-	font-size: 1rem;
+	font-size: .9rem;
 	text-transform: lowercase;
 	overflow: hidden; /* Ensures the content is not revealed until the animation */
 	 /* Keeps the content on a single line */
